@@ -13,3 +13,6 @@ Please keep in mind that all pull/merge requests should be submitted to the [Git
 
 ## License
 This project (the gradients and examples) is licensed under the [Creative Commons Attribution 4.0 International Public License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+## Credits
+The shape of the heart used in [examples/hearts](./examples/hearts) was taken from https://www.iconfinder.com/icons/299063/heart_icon
